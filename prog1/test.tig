@@ -1,0 +1,13 @@
+function test (x: int) =
+    var c := 3
+    var N := 5
+    if c=N
+    then test(c)
+    var y := nil
+    var st := "THIS IS A STING"
+    var st3 := "THIS IS ALSO A STRING )(*&^%$#@!?><"
+    var st2 := "It\"s not a \n string \t \007"
+    /* THis is a comment */ 
+    /* This is a comment
+    /* This is a nested Comment */ 
+    */
